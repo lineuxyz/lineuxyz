@@ -5,23 +5,23 @@
 <br/>
 <h3 align="center">
 <a href="https://facebook.com">
-  <img align="center" alt="Lineu Pastorelli | Twitter" width="50px" src="./assets/facebook_icon.svg" />
+  <img align="center" alt="Lineu Pastorelli Facebook" width="50px" src="https://user-images.githubusercontent.com/54123248/87780650-8c275100-c805-11ea-8442-4009d201ac66.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186/">
-  <img align="center" alt="Lineu LinkdeIN" width="50px" src="./assets/linkedin_icon.svg" />
+  <img align="center" alt="Lineu LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/54123248/87780611-731ea000-c805-11ea-8d41-dd0896c4753c.png" />
 </a>
 
 <a href="https://www.twitch.tv/lineuxyz">
-  <img align="center" alt="Lineuxyz Twitch Tv" width="50px" src="./assets/twitch_icon.svg" />
+  <img align="center" alt="Lineuxyz Twitch Tv" width="50px" src="https://user-images.githubusercontent.com/54123248/87780851-ed4f2480-c805-11ea-9aec-aa8b186beee4.png" />
 </a>
 
 <a href="https://twitter.com/KiritoKuuuun">
-  <img align="center" alt="Abhishek's Instagram" width="50px" src="./assets/twitter_icon.svg" />
+  <img align="center" alt="Lineu Twitter" width="50px" src="https://user-images.githubusercontent.com/54123248/87780739-b711a500-c805-11ea-851d-646de7f9b8e5.png" />
 </a>
 
 <a href="https://www.instagram.com/lineuxyz/">
-  <img align="center" alt="Lineuxyz instagram" width="50px" src="./assets/instagram_icon.svg" />
+  <img align="center" alt="Lineuxyz instagram" width="50px" src="https://user-images.githubusercontent.com/54123248/87780893-fe983100-c805-11ea-8202-36e04fb3452d.png" />
 </a>
 <h3>
 
