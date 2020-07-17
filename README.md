@@ -47,21 +47,20 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 
 <h3 align="center">
 
-<code><img height="40" src="./assets/docker_icon.svg"></code>
-<code><img height="40" src="./assets/express_icon.svg"></code>
-<code><img height="40" src="./assets/electron_icon.svg"></code>
-<code><img height="40" src="./assets/git_icon.svg"></code>
-<code><img height="40" src="./assets/github_icon.svg"></code>
-<code><img height="40" src="./assets/javascript_icon.svg"></code>
-<code><img height="40" src="./assets/mongodb_icon.svg"></code>
-<code><img height="40" src="./assets/node_icon.svg"></code>
-<code><img height="40" src="./assets/postgress_icon.svg"></code>
-<code><img height="40" src="./assets/react_icon.svg"></code>
-<code><img height="40" src="./assets/redis_icon.svg"></code>
-<code><img height="40" src="./assets/sequelize_icon.svg"></code>
-<code><img height="40" src="./assets/swift_icon.svg"></code>
-<code><img height="40" src="./assets/typescript_icon.svg"></code>
-<code><img height="40" src="./assets/yarn_icon.svg"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781646-72870900-c807-11ea-9ea2-6bfdc1ec99c2.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781713-964a4f00-c807-11ea-984b-a1be69b300b8.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781746-a7935b80-c807-11ea-996c-61b5c85a32d8.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781773-b712a480-c807-11ea-9b41-4efa3184ce51.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781774-b7ab3b00-c807-11ea-894a-b710cd55031e.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781876-e0333500-c807-11ea-8b21-26fa240ae94d.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781877-e0cbcb80-c807-11ea-96f1-91bc57dab184.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781880-e0cbcb80-c807-11ea-9fd4-b9c53a06c073.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781882-e0cbcb80-c807-11ea-9246-06edeb90c194.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781885-e1646200-c807-11ea-95ab-aab13d79adee.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781886-e1646200-c807-11ea-97d4-e9ab244df1bd.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781888-e1fcf880-c807-11ea-821b-4d65313ce4eb.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781890-e1fcf880-c807-11ea-82ea-563d6513ebab.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/54123248/87781893-e2958f00-c807-11ea-97ca-e9610cdd1164.png"></code>
 <h3>
 
 
