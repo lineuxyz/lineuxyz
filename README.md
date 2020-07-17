@@ -69,7 +69,7 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 
 
 <a href="">
-  <img align="left" src="./assets/github_image.png" />
+  <img align="left" src="https://user-images.githubusercontent.com/54123248/87738544-04652680-c7b4-11ea-9920-771f145e34b8.png" />
 </a>
 
 
