@@ -64,7 +64,7 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 <h3>
 
 
-![Lineu github stats](https://github-readme-stats.vercel.app/api?username=lineuxyz&show_icons=true&hide_border=true)
+![Lineu github stats](https://github-readme-stats.vercel.app/api?username=lineuxyz)
 
 
 <a href="">
