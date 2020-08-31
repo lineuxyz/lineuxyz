@@ -17,7 +17,7 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 * 👨🏻‍🚀 I try to help people, answer questions about problems and show my technical and sincere opinion 📚;
 * 💬 Ask me about something, I like to help;
 * ✉️ You can send me an email, asking for help, and also ask for a freela falacmg@lineupastorelli.com;
-* Pay a visit to my website (it's pretty cool there, I promise) https://lineupastorelli.com
+* 🛴 Pay a visit to my website (it's pretty cool there, I promise) https://lineupastorelli.com
 
 <br />
 
@@ -28,4 +28,7 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 <br />
 <br />
 
-### Find me on discord <img width="25" src="https://user-images.githubusercontent.com/54123248/90984557-0ad18580-e54c-11ea-871d-056282765b47.png" alt=""/> xOneman¿#4694 
+<img width="25" src="https://user-images.githubusercontent.com/54123248/90984557-0ad18580-e54c-11ea-871d-056282765b47.png" alt=""/>
+<h3>
+  Find me on discord  <strong style="color: #ff9000">xOneman¿#4694</strong>
+</h3>
