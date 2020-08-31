@@ -28,7 +28,5 @@ Hello, I'm Lineu 🦄, I'm from Brazil! I'm a full stack developer 🚀, using S
 <br />
 <br />
 
-<img width="25" src="https://user-images.githubusercontent.com/54123248/90984557-0ad18580-e54c-11ea-871d-056282765b47.png" alt=""/>
-<h3>
-  Find me on discord  <strong style="color: #ff9000">xOneman¿#4694</strong>
-</h3>
+<img width="20" src="https://user-images.githubusercontent.com/54123248/90984557-0ad18580-e54c-11ea-871d-056282765b47.png" alt=""/> xOneman¿#4694
+
